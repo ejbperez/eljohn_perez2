@@ -1,4 +1,4 @@
-First place the project on your localhost, this because im using php for backend
+First place the project on your local server, this because im using php for backend
 Open your database management tool add new shcema "eljohn_perez" and import the database
 Now start your xampp/wamp server open the project on code editor "i recommend to use VSCode"
 Open terminal and run:
