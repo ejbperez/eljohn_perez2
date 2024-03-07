@@ -1,0 +1,10 @@
+First place the project on your localhost, this because im using php for backend
+Open your database management tool add new shcema "eljohn_perez" and import the database
+Now start your xampp/wamp server open the project on code editor "i recommend to use VSCode"
+Open terminal and run:
+-npm install
+-npm run dev
+
+Login using default credential:
+email: eljohnp417@gmail.com
+password: Admin123!
